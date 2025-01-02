@@ -18,7 +18,6 @@ TUBE_LINES = [
     "Elizabeth line",
     "Hammersmith & City",
     "Jubilee",
-    "London Overground",
     "Metropolitan",
     "Northern",
     "Piccadilly",
@@ -28,6 +27,7 @@ TUBE_LINES = [
     "Lioness",
     "Mildmay",
     "Suffragette",
+    "Tram",
     "Weaver",
     "Windrush",
 ]
